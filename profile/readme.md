@@ -10,5 +10,5 @@ By setting up a GitHub organization repository, the organization can share their
 ## Driver Project
 OpenFutbol Driver Projects are real-world open community pickup soccer initiatives that help guide our development efforts and pilot our mission & vision. Stakeholders in local and global communities can then advocate, mandate, implement, and use our frameworks and standards in their local contexts.
 
-### Active Driver Project
-- [Chicago Neighborhood Soccer (NBHD Soccer)](https://github.com/OpenFutbol/chicago-neighborhood-soccer)
+## Active Driver Project
+⭐️ [Chicago Neighborhood Soccer (NBHD Soccer)](https://github.com/OpenFutbol/chicago-neighborhood-soccer) ⭐️
