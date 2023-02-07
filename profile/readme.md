@@ -1,6 +1,6 @@
 # OpenFutbol
 ## Mission
-OpenFutbol's mission is to create a open-source pickup soccer framework and space to promote collaboratation, innovation, and acceleration for pick up soccer as a public good.
+OpenFutbol's mission is to create a open-source framework and space to promote collaboratation, innovation, and acceleration for pick up soccer as a public good.
 
 ## Vision
 OpenFutbol vision is to leverage the proven open-source community model on GitHub to give pickup soccer organizations visibility and attract new members. 
