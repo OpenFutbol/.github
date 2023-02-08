@@ -8,7 +8,7 @@ OpenFutbol's mission is two-fold
 
 
 ## Vision
-OpenFutbol's vision is to create an open-source framework and space to promote collaboratation, innovation, and acceleration toward pick-up soccer as a public good in global and local communities. We envsion doing this through driver-projects, which can then serve as frameworks to build-up in open-source ways.
+OpenFutbol's vision is to create an open-source framework and space to promote collaboratation, innovation, and acceleration toward pick-up soccer as a public good in global and local communities. We envsion doing this through driver-projects, which can then serve as frameworks to incubate organizations in open-source ways.
 
 ## Driver Project
 OpenFutbol Driver Projects are real-world open community pickup soccer initiatives that help guide our development efforts and pilot our mission & vision. Stakeholders in local and global communities can then advocate, mandate, implement, and use our frameworks and standards in their local contexts.
