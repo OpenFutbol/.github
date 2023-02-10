@@ -1,7 +1,7 @@
 # OpenFutbol
 
 ## Active Driver Project
-⭐️ Chicago Neighborhood Soccer (NBHD Soccer)⭐️
+⭐️ [Chicago Neighborhood Soccer (NBHD Soccer)](https://opencollective.com/chicago-neighborhood-soccer)⭐️
 
   - [Chicago Neighborhood Soccer Mission, Vision and Value Statement](https://github.com/OpenFutbol/chicago-neighborhood-soccer/wiki)
   - **Road map** - *Coming Soon!*
